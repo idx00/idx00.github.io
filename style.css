@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Lateef;
+    src: url("./fonts/Lateef-Light.ttf");
+}
+@font-face {
+    font-family: UrbanistBold;
+    src: url("./fonts/Urbanist-Bold.ttf");
+}
+@font-face {
+    font-family: UrbanistSemiBold;
+    src: url("./fonts/Urbanist-SemiBold.ttf");
+}
+
+h1 {
+    font-family: "UrbanistBold", sans-serif;
+    font-size: 30px;
+    color: #111111;
+}
+
+h2 {
+    font-family: "UrbanistBold", sans-serif;
+    font-size: 20px;
+    color: #111111;
+    border-bottom: 1px solid #111111;
+    margin: 100px 0;
+}
+
+h3 {
+    color: #F98F3E;
+    font-family: "UrbanistSemiBold";
+    font-size: 17px;
+}
+
+li, p {
+    font-family: "Lateef", sans-serif;
+    font-size: 50px;
+    color: #C03F0E;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+strong {
+    color: #000 !important;
+    font-family: "UrbanistSemiBold" !important;
+    font-size:30px;
+}
