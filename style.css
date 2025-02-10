@@ -54,6 +54,10 @@ ul li {
 
 }
 
+ul li:nth-child(2) {
+    font-size: 35px !important;
+}
+
 strong {
     color: #000 !important;
     font-family: "UrbanistSemiBold" !important;
