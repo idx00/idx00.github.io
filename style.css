@@ -40,6 +40,10 @@ li, p {
     color: #C03F0E;
 }
 
+li {
+    text-align: left !important;
+}
+
 ul {
     list-style-type: none;
     padding: 0;
