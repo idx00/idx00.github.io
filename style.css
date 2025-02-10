@@ -47,7 +47,17 @@ li {
 ul {
     list-style-type: none;
     padding: 0;
+    direction: rtl;
     text-align: right;
+}
+
+ul li {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 5px;
+    text-align: right;
+
 }
 
 strong {
